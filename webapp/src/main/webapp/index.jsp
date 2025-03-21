@@ -9,8 +9,8 @@
     <input type="text" placeholder="Enter Name" name="name" id="namel" required>
     <br>
 
-    <label for="name"><b>Name</b></label>
-    <input type="text" placeholder="Enter Name" name="name" id="namel" required>
+    <label for="name"><b>Father Name</b></label>
+    <input type="text" placeholder="Enter Father Name" name="name" id="namel" required>
     <br>
 
     
